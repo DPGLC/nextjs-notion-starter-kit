@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '书海拾遗',
+  name: '好好学习 天天向上！',
   domain: 'https://www.notion.so/a24dee88489949caa2067258cd2b3fbd',
   author: 'DPGLC',
 
